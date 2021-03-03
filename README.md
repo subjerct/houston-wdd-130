@@ -1,5 +1,4 @@
-# houston-wdd-130
-This is my final website project for WDD 130 @BYUI
+# WDD 130 Final Project
+Owner: Taylor H.
 
-
-This is an edit for this
+Semester: Spring 2021
